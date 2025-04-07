@@ -1,10 +1,10 @@
-package a2;
 
-public class uzd2 {
+public class st040125 {
 
 	public static void main(String[] args) {
 		
-
+		
+		
 	}
 
 }
