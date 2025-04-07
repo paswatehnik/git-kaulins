@@ -23,4 +23,4 @@
 - [ ] Noversti issues iesniegumi
 - [ ] Izveidot jaunu zaru un sapludinat un 
 
-! [dd]  (https://www.flaticon.com/ru/free-icon/dice_2102198)
+![dd](https://www.flaticon.com/ru/free-icon/dice_2102198)
