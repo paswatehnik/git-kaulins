@@ -23,4 +23,4 @@
 - [ ] Noversti issues iesniegumi
 - [ ] Izveidot jaunu zaru un sapludinat un 
 
- https://ru.pngtree.com/freepng/red-dice_570480.html
+! [dd]  (https://www.flaticon.com/ru/free-icon/dice_2102198)
